@@ -14,8 +14,9 @@ Welcome to the E-Commerce-UI project! This project showcases a user interface de
 - [Usage](#usage)
 - [Project Demo](#project-demo)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
+- [License](#license)
+
 
 ## Project Overview
 
@@ -108,16 +109,16 @@ Contributions are welcome! If you'd like to improve this project, please follow 
 
    Go to the repository on GitHub and create a pull request with a description of your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For questions or feedback, you can reach out to:
 
 - **Email:** akasshpm@gmail.com
 - **GitHub:** [akasshpm](https://github.com/akasshpm)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
