@@ -1,6 +1,6 @@
 ---
 
-# E-Commerce-UI Project
+# E-Commerce UI Project
 
 Welcome to the E-Commerce-UI project! This project showcases a user interface design for an online shopping platform. 
 
