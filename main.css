@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    align-items: center;
+    justify-content: center;
+    display: inline;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('../IMAGE/e-commerce-1920-x-1080-wallpaper-254ablaz0ncfhx90.jpg');
+}
+.c{
+    margin-bottom: 20px;
+}
+.c ul li{
+    display: inline-block;
+    margin:10px;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.c ul{
+    background-color: rgba(9, 115, 110, 0.485);
+    text-align: center;
+    backdrop-filter: blur(20px);
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    margin-left: 350px;
+    display: inline-flex;
+    margin-top: 50px;
+    background-color:rgba(9, 115, 110, 0.485);
+    backdrop-filter:  blur(20px);
+    border-radius: 20px;
+    border: 3px solid black;
+}
+header{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(9, 115, 110, 0.485);
+    backdrop-filter: blur(20px);
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: aliceblue;
+}
+.s{
+    text-align: center;
+    margin: 25px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px black;
+    color: aliceblue;
+}
+.s img{
+    filter:grayscale();
+}
+.s img:hover{
+    filter:grayscale(0);
+    filter: drop-shadow(5px 5px 5px );
+}
+p{
+    margin-bottom: 5px;
+}
+.s:hover{
+    background-color: aliceblue;
+    color: gold;
+}
+.sh{
+    text-align: center;
+    margin: 25px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px black;
+    color: aliceblue;
+}
+.sh img{
+    filter:grayscale();
+}
+.sh img:hover{
+    filter:grayscale(0);
+    filter: drop-shadow(5px 5px 5px );
+}
+.sh:hover{
+    background-color: aliceblue;
+    color: gold;
+}
+.t{
+    text-align: center;
+    margin: 25px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px black;
+    color: aliceblue;
+}
+
+.t:hover{
+    background-color: aliceblue;
+    color: gold;
+}
+.t img{
+    filter:grayscale();
+}
+.t img:hover{
+    filter:grayscale(0);
+    filter: drop-shadow(5px 5px 5px );
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+button{
+    border-radius: 20px;
+    padding: 10px;
+    background: transparent;
+    color: black;
+    margin-top: 5px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+
+}
+button:hover{
+    background-color: black;
+    color: gold;
+    box-shadow: 2px 2px 2px 2px;
+}
+a:hover{
+    color: gold;
+}
+footer{
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(9, 115, 110, 0.485);
+    padding: 10px;
+    backdrop-filter: blur(20px);
+    position: fixed;
+    width: 100%;
+    bottom: 0%;
+    color: aliceblue;
+}
+.t img{
+    max-width: 200px;
+    object-fit: contain;
+}
+
+
